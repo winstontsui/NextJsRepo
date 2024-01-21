@@ -7,6 +7,8 @@ Create next.js app: `npx create-next-app@13.4`
 
 Start development server: `npm run dev`
 
+Open DevTools (Web Developer Tools): Press `F12`
+
 ## About Me
 
 I'm Winston Tsui, a Computer Science student at Syracuse University, hoping to become a software engineer one day :)
@@ -16,8 +18,6 @@ Passionate about using code and technology to improve the world.
 witsui@syr.edu
 
 <br>
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Learn More
 
