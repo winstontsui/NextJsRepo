@@ -1,4 +1,4 @@
-# bugtrackerNextJs
+# NextJs Repo
 NextJs 13 application using App Router with TypeScript, following Programming with Mosh's YouTube tutorial: https://www.youtube.com/watch?v=ZVnjOPwW4ZA
 
 ## Notes:
@@ -12,6 +12,9 @@ Build next.js application for production: `npm run build`
 Store this application for production: `npm start`
 
 Open DevTools (Web Developer Tools): Press `F12`
+
+DaisyUI is a component library for TailwindCSS.
+Installation Guide: `https://daisyui.com/docs/install/`
 
 ## About Me
 
