@@ -7,6 +7,10 @@ Create next.js app: `npx create-next-app@13.4`
 
 Start development server: `npm run dev`
 
+Build next.js application for production: `npm run build`
+
+Store this application for production: `npm start`
+
 Open DevTools (Web Developer Tools): Press `F12`
 
 ## About Me
